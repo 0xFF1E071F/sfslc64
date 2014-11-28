@@ -139,7 +139,7 @@ szRowIP                 db 'IP:', 0
 szRowName               db 'Name:', 0
 szRowEmail              db 'Email:', 0
 
-szSubmitInfo            db "Submiting info to SFS, hold on.", 0
+szSubmitInfo            db "Submitting info to SFS, hold on.", 0
 szAnotherNail			db "There goes another nail in the coffin!", 0
 
 pSFS_Reply:
